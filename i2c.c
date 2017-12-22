@@ -25,7 +25,7 @@ static void i2c_delay(void)
  */
 int32_t i2c_start(i2c_bus_t *i2c)
 {	
-	pin_t *scl = &i2c->pin.scl;
+
 	pin_t *sda = &i2c->pin.sda;
 	
 	assert(i2c);
