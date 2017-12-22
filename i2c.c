@@ -4,7 +4,8 @@
  */
 #include "i2c.h"
 #include "config.h"
-fdfdsafdas fdsa f fdafdsa 
+fdfdsafdas fdsa f fdafdsa    
+ysh
 #version 1.0  dfd       
 /* 该函数仅供i2c内部控制时序使用, 阻塞！！！ */
 static void i2c_delay(void)
