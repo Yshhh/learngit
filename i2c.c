@@ -5,6 +5,7 @@
 #include "i2c.h"
 #include "config.h"
 
+#version 1.0  dfd 
 /* 该函数仅供i2c内部控制时序使用, 阻塞！！！ */
 static void i2c_delay(void)
 {
