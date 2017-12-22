@@ -19,7 +19,7 @@ static void i2c_delay(void)
 */
 	for (i = 0; i < 50; i++);	
 }
-
+123
 /* 
  * i2c 起始信号， 开始之前先检查一下i2c是否空闲
  */
