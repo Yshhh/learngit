@@ -1,7 +1,4 @@
-/*
- * File      : i2c.c
- * GPIO 模拟I2C 
- */
+
 #include "i2c.h"
 #include "config.h"
 fdfdsafdas fdsa f fdafdsa    
